@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">HotelCentral1</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hola fragmento en blanco</string>
+    <string name="hint_name">Nombre del Huésped</string>
+    <string name="helper_required">Requerido</string>
+    <string name="hint_dni">Dni</string>
+    <string name="hint_apellido">Apellido del Huésped</string>
+    <string name="hint_habitacion">Número de Habitación</string>
+    <string name="hint_foto">Nª de Habitación</string>
+    <string name="hint_fecha">Fecha de Llegada</string>
+    <string name="hint_dias">Días reservados</string>
+    <string name="hint_estado">Estado de la Reserva</string>
+    <string name="title_add">Guardar Nueva Reserva</string>
+    <string name="menu_save">Guardar</string>
+    <string name="menu_detalle">Detalle</string>
+    <string name="message_save_success">Reserva Guardada Satisfactoriamente!</string>
+    <string name="message_edit_success">Reserva Actualizada Ok!!!</string>
+    <string name="text_required">Requerido</string>
+    <string name="message_delete">¿Deseas Eliminar la Reserva?</string>
+    <string name="message_confiirm">Eliminar</string>
+    <string name="message_del_cancel">Cancelar</string>
+    <string name="message_options_title">¿Qúe desea hacer?</string>
+    <string name="hint_celular">Número de Celular</string>
+    <string name="error_no_resolve">No se encontro App Compatible</string>
+    <string name="fecha_textview">Seleccionar Fecha de Llegada:</string>
+    <string name="title_active_login">Firebase Login</string>
+    <string name="title_registrarse">Registrarse como Usuario</string>
+    <string name="password">Contraseña</string>
+    <string name="new_password">Nueva contraseña</string>
+    <string name="current_password">Contraseña actual</string>
+    <string name="name">Nombre completo</string>
+    <string name="email">Email</string>
+    <string name="login">Login</string>
+    <string name="repeat_password">Confirma la contraseña</string>
+    <string name="signup">Registrarse</string>
+    <string name="text_signup">No tienes cuenta?</string>
+    <string name="link_signup">Registrarse</string>
+    <string name="all">TODO</string>
+    <string name="user_email">userdefault@gmail.com</string>
+    <string name="user_name">User Default</string>
+    <string name="update_profile">Guardar</string>
+    <string name="delete_account">Eliminar cuenta</string>
+    <string name="change_password">Cambiar contraseña</string>
+    <string name="forget_password">¿olvidaste tu contraseña?</string>
+    <string name="title_check_email">Verificacion de Email</string>
+    <string name="subtitle_check_email">Para completar su registro. ¡Por favor! verifica su correo y después de clic en continuar.</string>
+    <string name="continue_check_email">Continuar</string>
+    <string name="title_account_recovery">Recuperación de la cuenta</string>
+    <string name="subtitle_account_recovery">Ingresa tu email para que se te pueda enviar un correo con los pasos para cambiar tu contraseña.</string>
+    <string name="recovery_account">Enviar</string>
+    <string name="title_update_password">Cambio de contraseña</string>
+    <string name="subtitle_update_password">Por motivos de seguridad para cambiar tu contraseña, primero debes ingresar tu contraseña actual.</string>
+    <string name="title_delete_account">Eliminar cuenta</string>
+    <string name="subtitle_delete_account">Por motivos de seguridad para eliminar tu cuenta por completo, debes de ingresar tu contraseña.</string>
+    <string name="delete">Eliminar</string>
+    <string name="mesa_edit_success">Actualización!!</string>
+    <string name="mesa_save_success">Habitación Guardada ok!!!</string>
+
+</resources>

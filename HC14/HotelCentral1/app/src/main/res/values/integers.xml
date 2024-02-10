@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="counter_max_name">40</integer>
+    <integer name="counter_max_dni">8</integer>
+    <integer name="liner_apellido">2</integer>
+    <integer name="counter_max_habita">3</integer>
+    <integer name="counter_max_fecha">8</integer>
+    <integer name="counter_max_dias">30</integer>
+    <integer name="counter_max_cel">11</integer>
+</resources>
